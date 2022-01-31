@@ -1,0 +1,83 @@
+.weblayout-example >div{
+    padding: 20px 0;
+    text-align: center;
+    margin: 5px 0;
+    padding:113px;
+    
+}
+
+
+
+
+
+
+
+.Github{
+    
+      background-color: #353536;
+      border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.image{
+    height: 100px;
+    float: left;
+
+    width: 100px;
+
+}
+.menu{
+    float: left;
+    width: 33.33%;
+    height: 200px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    background-color: purple;
+
+}
+.content{
+    float: left;
+    width: 33.33%;
+    height: 200px;
+    background-color: red;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+.sidebar{
+    float: right;
+    width: 33.33%;
+    height: 150px;
+    background-color: yellow;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.footer{
+    clear: both;
+    background-color: turquoise;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 150px;
+}
+.flexbox-items{
+    width: 200px;
+    margin: 10px;
+    border: 3px solid #333;
+    background-color:#353536;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    min-height: 500px;
+
+}
